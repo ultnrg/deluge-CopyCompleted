@@ -42,7 +42,7 @@ from setuptools import setup
 __plugin_name__ = "CopyCompleted"
 __author__ = "Sam Lai"
 __author_email__ = "sam@edgylogic.com"
-__version__ = "0.6"
+__version__ = "0.7"
 __url__ = "http://deluge-torrent.org"
 __license__ = "GPLv3"
 __description__ = "Copies completed torrents to another directory."
